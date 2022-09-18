@@ -1,0 +1,84 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(238, 242, 234);
+}
+
+.radius {
+    border-radius: 10px;
+}
+
+.box-sizing {
+    margin: 2vh;
+    padding: 2vh;
+    width: 30vh;
+    background-color: white;
+    border-radius: 10px;
+    list-style: none;
+
+}
+
+.pp-image {
+    width: 5vh;
+}
+
+.story-box {
+    margin: 10px;
+    width: 30vh;
+    height: 30vh;
+    background-color: aqua;
+    background-image: url(image/story.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.middle-second-part,
+.middle-third-part {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 3px solid white;
+    background-color: white;
+}
+
+span {
+    margin-left: 20px;
+}
+
+span i {
+    margin-right: 3px;
+}
+
+.create-post input {
+    margin-left: 10px;
+    width: 100vh;
+}
+
+.highlight {
+    color: rgb(243, 49, 49);
+    font-weight: 600;
+    marigin: right 6px;
+}
+
+.Friend-Request {
+    margin-left: 15px;
+}
+
+.grey-line {
+    color: gray;
+    font-size: small;
+
+}
+
+.profile-post-part {
+    background-color: white;
+    padding: 10px;
+}
+.cross-part-collab{
+    margin-left: 500px;
+}
+.like-part{
+    background-color: lightgray;
+    margin: ;
+}
