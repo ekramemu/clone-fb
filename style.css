@@ -82,3 +82,20 @@ span i {
     background-color: lightgray;
     margin: ;
 }
+.profile-name{
+    margin: 5px;
+}
+.profile-name i{
+    margin:0 5px;
+}
+#s-box{
+    width: 20vh;
+}
+.common-box{
+
+    width: 150vh;
+    height: 50vh;
+    padding-top: 50px;
+    text-align: center;
+    background-color: white;
+}
